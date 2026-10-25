@@ -53,7 +53,7 @@ tk.Label(
 
 tk.Label(
     win,
-    text="Calculate your age and birth day",
+    text="Calculate your age and birthday",
     bg="#0A2342",
     fg="white"
 ).pack()
